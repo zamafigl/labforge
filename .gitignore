@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.venv/
+node_modules/
+dist/
+build/
+artifacts/
+generated/
+*.zip
+*.pdf
+.DS_Store
